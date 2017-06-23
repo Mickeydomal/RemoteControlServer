@@ -13,7 +13,7 @@ UnlockPWD.com:
 <i>Há vários controles por aí. Este esta em outro nível</i>
 
 Android-User.de:
-<i>Setting up this app is a no-brainer</i>
+<i>configurar esse aplicativo é algo muito simples</i>
 
 TomsGuide.com:
 <i>Melhor app para controlar seu PC</i>
