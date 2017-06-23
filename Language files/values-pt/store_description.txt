@@ -50,7 +50,7 @@ Simplesmente diga o que você quer que seja escrito no seu PC. Você também usa
 Você pode controlar seu PC diretamente do seu relógio! Extremamente útil, discreto, inovador e fascinante para apresentações ou controlar o media player.
 
 <b>Muito mais</b>
-O Servidor de Controle Remoto é open source e pode ser usado para controlar qualquer dispositivo na sua rede. Você pode usar este app para controlar todos os seus dispositivos compatíveis com internet of things (IOT) - como Arduino, Raspberry Pi e semelhantes.<br/>
+O Servidor de Controle Remoto é open source e pode ser usado para controlar qualquer dispositivo na sua rede. Você pode usar este app para controlar todos os seus dispositivos compatíveis com internet of things(IOT) (Internet das Coisas, em portugês) - como Arduino, Raspberry Pi e semelhantes.<br/>
 
 <small>Para receber os comandos do App de Controle Remoto, você precisará baixar o Servidor de Controle Remoto. Você pode baixá-lo gratuitamente em:
 http://server.android-remote.com
